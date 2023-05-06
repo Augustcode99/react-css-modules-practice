@@ -1,0 +1,8 @@
+.btn {
+  color: greenyellow;
+  background-color: grey;
+  padding: 1.5rem 2rem;
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px;
+}
